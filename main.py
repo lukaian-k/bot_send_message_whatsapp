@@ -4,11 +4,13 @@ from datetime import datetime
 
 nome = 'Lucas José' #INSIRA SEU NOME AQUI
 
+print('\n<<<Programa Inicializado>>>\n')
 file = open('contatos/lista_numeros_site.txt', 'r+')
 lista_numeros_site = file.readlines(); file.truncate(0), file.close()
 
 file = open('contatos/lista_numeros_outros_servicos.txt', 'r+')
 lista_numeros_outros_servicos = file.readlines(); file.truncate(0), file.close()
+print('Arquivos limpos!\n')
 
 horario = datetime.now(); hora = [int(horario.strftime('%H')), int(horario.strftime('%M'))]
 
