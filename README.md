@@ -6,10 +6,14 @@
 
 <h3 align="center"><strong>Sobre o projeto</strong></h3>
 
-#### *Programa desenvolvido em __Python__, onde foram usadas os módulos: <a href="https://pywhatkit.herokuapp.com/">__pywhatkit__</a> e <a href="https://docs.python.org/3/library/datetime.html">__datetime__</a>.<br>O intuito do projeto foi criar um __Bot__ que envie mensagens pré-definidas automaticamente para qualquer número no __Whatsapp__.*
+#### *Programa desenvolvido em __Python__, onde foram usadas os módulos: <a href="https://pywhatkit.herokuapp.com/">__pywhatkit__</a> e <a href="https://docs.python.org/3/library/datetime.html">__datetime__</a>.*
+
+#### *O intuito do projeto foi criar um __Bot__ que envie mensagens pré-definidas automaticamente para qualquer número no __Whatsapp__.*
 <br>
 
 
 <h3 align="center"><strong>Como usar</strong></h3>
 
-#### *Após o __download__ do programa, você poderá alterar editar o código como preferir, editando as mensagens que irá ser enviada.<br>Inserindo os __números__ que irão ser enviadas as __mensagens__ em um dos __arquivos__, de forma onde cada arquivo irá ser __responsável__ por enviar uma das mensagens definidas.<br>Cada __número__ deve ser adicionado __embaixo do outros__ e deverá seguir o seguinte padrão: ```Código do País + DDD + Restante do Número```, __Ex.: +558812345678__.<br><br>Para executar o programa basta inicializar o arquivo: __main.py__<br><sup>Os arquivos serão limpados automaticamente após o uso do programa.</sup>*
+#### *Após o __download__ do programa, você poderá alterar editar o código como preferir, editando as mensagens que irá ser enviada. Inserindo os __números__ que irão ser enviadas as __mensagens__ em um dos __arquivos__, de forma onde cada arquivo irá ser __responsável__ por enviar uma das mensagens definidas.*
+
+#### *Cada __número__ deve ser adicionado __embaixo do outros__ e deverá seguir o seguinte padrão: ```Código do País + DDD + Restante do Número```, __Ex.: +558812345678__.<br><br>Para executar o programa basta inicializar o arquivo: __main.py__<br><sup>Os arquivos serão limpados automaticamente após o uso do programa.</sup>*
