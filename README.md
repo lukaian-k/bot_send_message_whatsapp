@@ -14,6 +14,6 @@
 
 <h3 align="center"><strong>Como usar</strong></h3>
 
-#### *Após o __download__ do programa, você poderá alterar editar o código como preferir, editando as mensagens que irá ser enviada. Inserindo os __números__ que irão ser enviadas as __mensagens__ em um dos __arquivos__, de forma onde cada arquivo irá ser __responsável__ por enviar uma das mensagens definidas.*
+#### *Após o __download__ do programa, você poderá alterar editar o código como preferir, editando as mensagens que irá ser enviada. Inserindo os __números__ que irão ser enviadas as __mensagens__ em um __arquivo__, de forma onde cada arquivo irá ser __responsável__ por enviar uma das mensagens definidas.*
 
 #### *Cada __número__ deve ser adicionado __embaixo do outros__ e deverá seguir o seguinte padrão: ```Código do País + DDD + Restante do Número```, __Ex.: +558812345678__.<br><br>Para executar o programa basta inicializar o arquivo: __main.py__<br><sup>Os arquivos serão limpados automaticamente após o uso do programa.</sup>*
